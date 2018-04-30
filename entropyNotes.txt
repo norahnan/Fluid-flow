@@ -1,0 +1,52 @@
+02/14
+project the location data on an axis and find the time where the points match the best
+
+
+
+12/05
+    use fourier transformation and input different initial angles, find the resulting function with the smallest sine component, so that function is even and we can have the axis, and we can start matching points according to the axis
+
+11/30
+    find out how many turns the points have made in the 
+
+11/7
+    0.879909729255 0.880013521107  radius = 0.000001
+    0.879952123968 0.879966366177
+    
+    direction of the largest stretch which of the ring of points is farthest and record the angle
+
+11/2
+    print a circle of final points
+    lambda for a grid of points
+
+10/31
+    ring around PO
+    final point far and closest 
+    -1 entropy
+    0 entropy
+
+10/30 Record data
+    180*60    119--104--0.00844444851031
+    270*90    221--190--0.011228946032
+    360*120   314--255--0.0114871460481
+
+
+
+10/26
+    gridsize vs entropy
+    where start
+    plot of PO
+    how many copies initial guess and the after minization
+    how far away is a close oint after a period of time
+    if they are stable PO
+    check params
+    get plots of PO
+
+
+10/3
+    Period one
+    return converge or not
+    both ent and index
+    algrbric
+    store to file
+
